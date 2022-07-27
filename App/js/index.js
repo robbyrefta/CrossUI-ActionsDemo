@@ -393,10 +393,10 @@ xui.Class('App', 'xui.Module',{
                         "method" : "alert",
                         "args" : [
                             "Title",
-                            "Alert Message Nih Bro"
+                            "Testing alert bro"
                         ],
-                        "onOK" : 2,
-                        "event" : 1
+                        "event" : 1,
+                        "onOK" : 2
                     },
                     {
                         "desc" : "next",
